@@ -33,7 +33,7 @@
 
 move the newly generated build folder inside server folder
 
-# Some screenshots
+# screenshots
 ![Dashboard](https://user-images.githubusercontent.com/29522653/174951183-c2034f99-9934-46d7-ba71-4e630ad7dc97.png)
 ![commidities_listview](https://user-images.githubusercontent.com/29522653/174951178-d548c34a-eee8-4bc6-bb53-c69d069b9e0f.png)
 ![commodity_add](https://user-images.githubusercontent.com/29522653/174951176-6948e915-861d-40e1-a43d-f3787be7cbb8.png)
